@@ -6,7 +6,7 @@
 
 ### Some open source work
 
-AI based interview app(https://play.google.com/store/apps/details?id=com.animesafar.dinterviewkit)
+AI based interview android app with 400+ downloads(https://play.google.com/store/apps/details?id=com.animesafar.dinterviewkit)
 <!--
 **Nikunj-bisht/Nikunj-bisht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
