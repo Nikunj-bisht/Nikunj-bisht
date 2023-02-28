@@ -2,7 +2,7 @@
 
 
 - 📱 Android developer , backend developer
-- 🌱 I’m currently learning python and data-science
+-  React Native , React , Spring boot
 
 ### Some open source work
 
