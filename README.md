@@ -1,5 +1,1 @@
-### Hi there 👋
-
-
-- 📱 Android developer , backend developer
--  React Native , React , Spring boot
+### Hi there 👋 I am a mobile developer skilled in React Native and native android
